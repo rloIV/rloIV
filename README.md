@@ -1,7 +1,7 @@
 ### 🤺
 
 I’m currently learning CyberSecurity on [TryHackMe](https://tryhackme.com/p/lnwi.olr)
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/lnwi.olr.png" alt="TryHackMe">
 <!--
 **rloIV/rloIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
