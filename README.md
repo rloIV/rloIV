@@ -1,7 +1,7 @@
 ### 🤺
 
 # 🤖 Hi!
-I'm currently a Project Manager for a team of developers working on a GTA RP server. While I manage the project, I also love coding and learning more about cybersecurity and computer networks. In my free time, I work on a few personal projects, like the Discord bots I've built using Python and the discord.py library, which I share here as a hobby.
+I'm currently a Project Manager for a team of developers working on a GTA RP server. While I manage the project, I also love coding and learning more about cybersecurity and computer networks. In my free time, I work on a few personal projects, like the Discord bots I've built using Python and the discord.py library, which I share here as a hobby
 
 ## 🔧 Technologies & Tools
 
